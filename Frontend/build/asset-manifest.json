@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08f86b16.css",
+    "main.js": "/static/js/main.c6ecbd58.js",
+    "static/js/787.5b55d35b.chunk.js": "/static/js/787.5b55d35b.chunk.js",
+    "static/media/food.jpg": "/static/media/food.34dbbb40317ad8c33cee.jpg",
+    "static/media/politics.jpg": "/static/media/politics.1443890b46ed36bfd607.jpg",
+    "static/media/lifestyle.jpg": "/static/media/lifestyle.72c60b8919012d783454.jpg",
+    "static/media/sport.jpg": "/static/media/sport.6074fb082ff427e3366f.jpg",
+    "static/media/economics.jpg": "/static/media/economics.cbcb4bca505f9471448a.jpg",
+    "static/media/Technology.jpg": "/static/media/Technology.04f847112864c9a2e5ce.jpg",
+    "index.html": "/index.html",
+    "main.08f86b16.css.map": "/static/css/main.08f86b16.css.map",
+    "main.c6ecbd58.js.map": "/static/js/main.c6ecbd58.js.map",
+    "787.5b55d35b.chunk.js.map": "/static/js/787.5b55d35b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f86b16.css",
+    "static/js/main.c6ecbd58.js"
+  ]
+}

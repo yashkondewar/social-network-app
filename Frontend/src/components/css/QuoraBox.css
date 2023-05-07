@@ -1,0 +1,41 @@
+.quoraBox {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid lightgray;
+    background-color: black;
+    border-radius: 12px;
+    cursor: pointer;
+    max-width: 700px;
+
+  }
+  
+  .quoraBox:hover {
+    border: 1px solid rgb(175, 175, 175);
+  }
+  
+  .quoraBox__info {
+    display: flex;
+    align-items: center;
+    gap: 33px;
+    
+  }
+  
+.quoraBox__info > ::placeholder{
+  color:#E0E0E0;
+}
+  .quoraBox__info > h5 {
+    color: rgb(129, 129, 129);
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: large;
+  }
+  
+  .quoraBox__quora {
+    display: flex;
+    margin-top: 8px;
+  }
+
+  .Input{
+    color: white;
+  }
